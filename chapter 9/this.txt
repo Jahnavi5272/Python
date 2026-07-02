@@ -1,0 +1,3 @@
+this is a this.txt file
+and i will going to make copy for this file
+as this_copy.txt file

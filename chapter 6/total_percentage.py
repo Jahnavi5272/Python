@@ -1,0 +1,12 @@
+marks1 = int(input("Enter your marks: "))
+marks2 = int(input("Enter your marks: "))
+marks3 = int(input("Enter your marks: "))
+
+#total_percentage = ((marks1 + marks2 + marks3)/3)*100
+total_percentage = ((marks1 + marks2 + marks3)*100)/300
+
+if total_percentage >= 40 and marks1>=33 and marks2>=33 and marks3>=33:
+    print("You are passed: ",total_percentage)
+
+else:
+    print("You failed, with the percentage of: ",total_percentage)

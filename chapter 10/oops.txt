@@ -1,0 +1,14 @@
+
+2 types of approach
+i) Object-Oriented Programming approach
+    focus on using reusable code
+    DRY Principle - do not repeat yourself
+ii) Functional approach
+
+CLASS - Class is a blueprint to create object.
+OBJECT - Object is an installation of class.
+
+MODELLING A PROBLEM IN OOPS
+-> Noun - class - Employee
+-> Adjective - Attributes - name, age, salary
+-> Verbs - Methods - getSalary(), increment()
